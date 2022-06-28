@@ -8,7 +8,7 @@ Compile [cube.cpp](https://github.com/MathewKJ2048/Rubiks_cube/blob/main/src/cub
 
 ## Credits:
 
-- Supervisor - 
+- Supervisor - [Thomas Sathiaraj](https://www.linkedin.com/in/thomas-sathiaraj-60727047/?originalSubdomain=in)
 - Cube - [Aditya Ravindran](https://github.com/Adiprime-03) and [Mathew K J](https://github.com/MathewKJ2048)
 - File management - [Sunkara Vikas]()
 - Art - [Adhruth Ganesh](https://github.com/atxd)
